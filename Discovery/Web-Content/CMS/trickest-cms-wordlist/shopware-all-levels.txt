@@ -52155,6 +52155,12 @@ System/Locale/Util/LocaleHelper.php
 Locale/Util/LocaleHelper.php
 Util/LocaleHelper.php
 LocaleHelper.php
+src/Core/System/Locale/Util/BackwardCompatibleNumberFormatter.php
+Core/System/Locale/Util/BackwardCompatibleNumberFormatter.php
+System/Locale/Util/BackwardCompatibleNumberFormatter.php
+Locale/Util/BackwardCompatibleNumberFormatter.php
+Util/BackwardCompatibleNumberFormatter.php
+BackwardCompatibleNumberFormatter.php
 src/Core/System/Locale/Aggregate/LocaleTranslation/LocaleTranslationDefinition.php
 Core/System/Locale/Aggregate/LocaleTranslation/LocaleTranslationDefinition.php
 System/Locale/Aggregate/LocaleTranslation/LocaleTranslationDefinition.php
@@ -156695,6 +156701,13 @@ System/Locale/Util/LocaleHelperTest.php
 Locale/Util/LocaleHelperTest.php
 Util/LocaleHelperTest.php
 LocaleHelperTest.php
+tests/unit/Core/System/Locale/Util/BackwardCompatibleNumberFormatterTest.php
+unit/Core/System/Locale/Util/BackwardCompatibleNumberFormatterTest.php
+Core/System/Locale/Util/BackwardCompatibleNumberFormatterTest.php
+System/Locale/Util/BackwardCompatibleNumberFormatterTest.php
+Locale/Util/BackwardCompatibleNumberFormatterTest.php
+Util/BackwardCompatibleNumberFormatterTest.php
+BackwardCompatibleNumberFormatterTest.php
 tests/unit/Core/System/Locale/LanguageLocaleCodeProviderTest.php
 unit/Core/System/Locale/LanguageLocaleCodeProviderTest.php
 Core/System/Locale/LanguageLocaleCodeProviderTest.php
