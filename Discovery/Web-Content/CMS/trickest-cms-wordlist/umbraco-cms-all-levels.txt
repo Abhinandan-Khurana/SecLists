@@ -97411,6 +97411,11 @@ Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/LanguageServiceTests.c
 Umbraco.Infrastructure/Services/LanguageServiceTests.cs
 Services/LanguageServiceTests.cs
 LanguageServiceTests.cs
+tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/MediaEditingServiceTests.cs
+Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/MediaEditingServiceTests.cs
+Umbraco.Infrastructure/Services/MediaEditingServiceTests.cs
+Services/MediaEditingServiceTests.cs
+MediaEditingServiceTests.cs
 tests/Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/TemplateServiceTests.cs
 Umbraco.Tests.Integration/Umbraco.Infrastructure/Services/TemplateServiceTests.cs
 Umbraco.Infrastructure/Services/TemplateServiceTests.cs
@@ -105055,6 +105060,11 @@ Umbraco.Tests.UnitTests/Umbraco.Cms.Api.Management/Services/BackOfficeExternalLo
 Umbraco.Cms.Api.Management/Services/BackOfficeExternalLoginServiceTests.UnLinkLoginAsync.cs
 Services/BackOfficeExternalLoginServiceTests.UnLinkLoginAsync.cs
 BackOfficeExternalLoginServiceTests.UnLinkLoginAsync.cs
+tests/Umbraco.Tests.UnitTests/Umbraco.Cms.Api.Management/Services/UserStartNodeEntitiesServiceTests.cs
+Umbraco.Tests.UnitTests/Umbraco.Cms.Api.Management/Services/UserStartNodeEntitiesServiceTests.cs
+Umbraco.Cms.Api.Management/Services/UserStartNodeEntitiesServiceTests.cs
+Services/UserStartNodeEntitiesServiceTests.cs
+UserStartNodeEntitiesServiceTests.cs
 tests/Umbraco.Tests.UnitTests/Umbraco.Cms.Api.Management/Services/BackOfficeExternalLoginServiceTests.ExternalLoginStatusForUserAsync.cs
 Umbraco.Tests.UnitTests/Umbraco.Cms.Api.Management/Services/BackOfficeExternalLoginServiceTests.ExternalLoginStatusForUserAsync.cs
 Umbraco.Cms.Api.Management/Services/BackOfficeExternalLoginServiceTests.ExternalLoginStatusForUserAsync.cs

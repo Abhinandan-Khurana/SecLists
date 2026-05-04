@@ -54583,6 +54583,10 @@ plugins/woocommerce/changelog/fix-36979-log-get-order-exception
 woocommerce/changelog/fix-36979-log-get-order-exception
 changelog/fix-36979-log-get-order-exception
 fix-36979-log-get-order-exception
+plugins/woocommerce/changelog/64010-30819-php8-warning
+woocommerce/changelog/64010-30819-php8-warning
+changelog/64010-30819-php8-warning
+64010-30819-php8-warning
 plugins/woocommerce/changelog/bis-alpha-cr-fixes-and-cleanup
 woocommerce/changelog/bis-alpha-cr-fixes-and-cleanup
 changelog/bis-alpha-cr-fixes-and-cleanup
