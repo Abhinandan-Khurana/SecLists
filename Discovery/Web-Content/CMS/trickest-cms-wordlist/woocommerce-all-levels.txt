@@ -6448,6 +6448,13 @@ e2e-pw/tests/order/order-refund.spec.ts
 tests/order/order-refund.spec.ts
 order/order-refund.spec.ts
 order-refund.spec.ts
+plugins/woocommerce/tests/e2e-pw/tests/order/review-order-page.spec.ts
+woocommerce/tests/e2e-pw/tests/order/review-order-page.spec.ts
+tests/e2e-pw/tests/order/review-order-page.spec.ts
+e2e-pw/tests/order/review-order-page.spec.ts
+tests/order/review-order-page.spec.ts
+order/review-order-page.spec.ts
+review-order-page.spec.ts
 plugins/woocommerce/tests/e2e-pw/tests/order/order-bulk-edit.spec.ts
 woocommerce/tests/e2e-pw/tests/order/order-bulk-edit.spec.ts
 tests/e2e-pw/tests/order/order-bulk-edit.spec.ts
