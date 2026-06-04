@@ -82065,6 +82065,9 @@ OrderAdjustmentsRecalculationTest.php
 tests/Resources/xss.svg
 Resources/xss.svg
 xss.svg
+tests/Fixture/ProductOptionFixturesTest.php
+Fixture/ProductOptionFixturesTest.php
+ProductOptionFixturesTest.php
 tests/Fixture/ProductAttributeFixturesTest.php
 Fixture/ProductAttributeFixturesTest.php
 ProductAttributeFixturesTest.php
