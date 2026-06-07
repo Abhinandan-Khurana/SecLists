@@ -98635,6 +98635,10 @@ plugins/woocommerce/changelog/fix-store-alerts-widows
 woocommerce/changelog/fix-store-alerts-widows
 changelog/fix-store-alerts-widows
 fix-store-alerts-widows
+plugins/woocommerce/changelog/order-resume-item-loss-WOOPLUG-6382
+woocommerce/changelog/order-resume-item-loss-WOOPLUG-6382
+changelog/order-resume-item-loss-WOOPLUG-6382
+order-resume-item-loss-WOOPLUG-6382
 plugins/woocommerce/changelog/64524-feature-merge-additional-variation-images
 woocommerce/changelog/64524-feature-merge-additional-variation-images
 changelog/64524-feature-merge-additional-variation-images
